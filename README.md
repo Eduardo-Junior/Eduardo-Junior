@@ -13,3 +13,10 @@ Currently, I'm not involved with an organization nor work for a company, so this
 Meu nome é Eduardo e eu sou um estudante de Engenharia de Software.
 
 Atualmente, eu não tenho qualquer envolvimento profissional com qualquer organização ou trabalho para qualquer companhia, então este repositório tem o único propósito de servir como uma espécie de portfólio, onde eu possa ver meu progresso ao decorrer do tempo e mostra-lo para outros.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Junior&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Junior&layout=compact" />
+</a>
