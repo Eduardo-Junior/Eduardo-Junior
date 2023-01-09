@@ -1,12 +1,9 @@
 <div font-family="Roboto">
-  <h1 align="center"> :uk:  Welcome to my profile </h1>
+  <h1 align="center">Welcome to my profile </h1>
 
-   <div>
+   <div align="center">
     <h2 align="center">Quick bio </h2> 
-      My name is Eduardo and I'm a Software Engineering student.
-
-      Currently, I'm not professionally involved with any organization or company, so this repository has the only purpose of serving as some sort of portfolio where I can see my own progress through time and show it to others.
-      
+      My name is Eduardo and I'm a Software Analysis and Development student.
    </div>
   
   <hr>
