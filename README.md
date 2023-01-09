@@ -1,4 +1,4 @@
-<div>
+<div font-family="Roboto">
   <h1 align="center"> :uk:  Welcome to my profile </h1>
 
   ### Quick bio: 
@@ -6,16 +6,7 @@
 
   Currently, I'm not professionally involved with any organization or company, so this repository has the only purpose of serving as some sort of portfolio where I can see my own progress through time and show it to others.
 
-
-
-  <h1 align="center"> 🇧🇷 Seja bem-vindo ao meu perfil</h1> 
-
-  ### Biografia rápida: 
-  Meu nome é Eduardo e eu sou um estudante de Engenharia de Software.
-
-  Atualmente, eu não tenho qualquer envolvimento profissional com qualquer organização ou companhia, então este repositório tem o único propósito de servir como uma espécie de portfólio, onde eu possa ver meu progresso ao decorrer do tempo e mostra-lo para outros.
-</div>
-
+  
 <hr>
 
 <div align="center">
