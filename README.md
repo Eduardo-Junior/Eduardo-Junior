@@ -3,10 +3,10 @@
 
    <div>
     <h2 align="center">Quick bio </h2> 
-      <p align="center">My name is Eduardo and I'm a Software Engineering student.
+      My name is Eduardo and I'm a Software Engineering student.
 
       Currently, I'm not professionally involved with any organization or company, so this repository has the only purpose of serving as some sort of portfolio where I can see my own progress through time and show it to others.
-      </p>
+      
    </div>
   
   <hr>
