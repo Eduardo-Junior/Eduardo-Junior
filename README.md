@@ -1,10 +1,5 @@
 <div font-family="Roboto">
   <h1 align="center">Welcome to my profile </h1>
-
-   <div align="center">
-    <h2 align="center">Quick bio </h2> 
-      My name is Eduardo and I'm a Software Analysis and Development student.
-   </div>
   
   <hr>
 
