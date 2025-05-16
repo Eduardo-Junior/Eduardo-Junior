@@ -3,7 +3,8 @@
 <p align="left"> 
   <h1>Seja bem-vindo ao meu perfil!</h1>
   Atualmente curso Tecnologia em Sistemas para Internet no Instituto Federal. Com foco em desenvolvimento Back-end, procuro sempre dar o meu melhor e estar em constante aprendizado sobre as diversas ferramentes do meio da tecnologia.
-  No momento meu foco é o desenvolvimento web com Java Spring, conforme meus projetos recentes indicam. Se quiser dar uma olhada, fique à vontade :) 
+  <br>
+  No momento, meu foco é o desenvolvimento web com Java Spring, conforme meus projetos recentes indicam. Se quiser dar uma olhada, fique à vontade :) 
 </p>
 
 <p align="left">
