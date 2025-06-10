@@ -92,7 +92,7 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Java Spring ou p
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Junior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
