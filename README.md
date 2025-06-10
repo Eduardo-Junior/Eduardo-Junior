@@ -4,7 +4,8 @@
 
 **`Desenvolvedor Back-End`**
 
-Seja bem-vindo ao meu perfil. Me chamo José Eduardo André Junior e atualmente curso Engenharia de Software na UNIFAE. Com foco em desenvolvimento Back-end, procuro sempre dar o meu melhor e estar em constante aprendizado sobre as diversas ferramentes do meio da tecnologia.
+Seja bem-vindo ao meu perfil!
+<br> <br> Me chamo José Eduardo André Junior e atualmente curso Engenharia de Software na UNIFAE. Com foco em desenvolvimento Back-end, procuro sempre dar o meu melhor e estar em constante aprendizado sobre as diversas ferramentes do meio da tecnologia. <br>
 No momento, meu foco é o aprendizado e desenvolvimento web com Java Spring ou projetos mais simples com HTML, CSS e JS, conforme meus repositórios recentes indicam. Fique à vontade para dar uma olhada!
 
 <p align="left">
