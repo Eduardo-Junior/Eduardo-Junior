@@ -87,7 +87,7 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Java Spring ou p
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 5px;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Eduardo-Junior&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -95,6 +95,7 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Java Spring ou p
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Junior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
