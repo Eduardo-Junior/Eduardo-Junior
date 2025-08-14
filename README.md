@@ -31,7 +31,7 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Java Spring ou p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, github, html, css, javascript, java, mysql, php, python, idea, windows, ubuntu " />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,javascript,java,mysql,php,python,idea,windows,ubuntu&perline=6" />
   </a>
 </p>
 
