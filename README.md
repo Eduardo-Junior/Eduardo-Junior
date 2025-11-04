@@ -38,6 +38,10 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Java Spring ou p
 <br/>
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph"/>
+</div>
+
 ### 📊 Estatísticas
 
 <p>
