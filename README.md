@@ -47,7 +47,7 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Node.JS ou proje
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Eduardo-Junior&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="github-readme-stats-tau-six-86.vercel.app/api?username=Eduardo-Junior&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
@@ -55,7 +55,7 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Node.JS ou proje
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Junior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="github-readme-stats-tau-six-86.vercel.app/api/top-langs/?username=Eduardo-Junior&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
