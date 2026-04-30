@@ -50,6 +50,6 @@ No momento, meu foco é o aprendizado e desenvolvimento web com Node.JS,PHP (Lar
     src="https://github-readme-stats-tau-six-86.vercel.app/api?username=Eduardo-Junior&show_icons=true&hide_rank=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img src="https://streak-stats.demolab.com?user=Eduardo=Junior&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+<img src="https://streak-stats.demolab.com?user=Eduardo-Junior&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 
 </p>
